@@ -1,3 +1,32 @@
 ### Prokaryotic Molecular Biology ###
 9/6/23
 Primary literature, Foundational Examples, and Exceptions to the "Rule" will aid in understanding PMB.
+9/8/23
+Which elements of replication rely on specific protein-DNA interaction?
+  Termination sometimes
+  Most things involved in initiation are non-specific
+Which elements of replication rely on non-specific protein-DNA interactions?
+  Helicase
+  DNA polymerase
+  anything involved in elongation
+Double helix can be rotated and translated away from the norm which will affect interactions
+There are also intrinsic bends within the DNA which will also change how things interact with the double helix
+Common protein-DNA interaction themes
+  A couple dozen h-bonds at the surface of the protein sufficient for specificity for DNA binding
+  DNA binding is largely a matter of complementary surfaces
+  Most well-characterized binding proteins are dimers (generally homodimers
+  Some do interact with the minor groove
+  conformations of each molecule can be altered by the interaction
+There are common modes of recognition, but no simple code
+  no 1:1 correspondence between side chains and bases
+Indirect readout
+  helical twist of non-contacted base pairs determines the affinity
+
+Replication
+  Bacterial chromosome replication
+    initiated at oriC [GFP(Green Fluorescent Protein)] 
+    Stopped at terminator
+    Initially thought that replication is always middle of the cell and needs its factory, but in fact not true
+  
+    
+
