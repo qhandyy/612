@@ -27,6 +27,36 @@ Replication
     initiated at oriC [GFP(Green Fluorescent Protein)] 
     Stopped at terminator
     Initially thought that replication is always middle of the cell and needs its factory, but in fact not true
+9/11/23
+How to find the origin?
+  Insert ori onto plasmid with antibiotic resistance gene and select for it on selective medium
+  DUE - DNA unwinding element... where DNA splits for replication
+  1. DnaA binds DnaA boxes
+  2. ATP DnaA's oligomerize, promote unwinding and recruit helicase + loader complex
+  3. 2 DnaB hexomers loaded onto DUE DnaC dissociates
+  4. Replisome Asssembly Begins
+Rep initiation and regulation
+  Physical - opening duplex to access DNA needs to be regulated
+  Coordinate with the cell cycle to have replication occur at the right time and that the correct amount of replication is occurring
+  Steps leading to ori
+    DnaA boxes fill first
+    Bending proteins IHF and Fis modulate DNA binding
+    high-affinity bound DnaA recruits DnaA to low affinity sites
+    DnaA extends to DUE and recruits DnaB
+  Regulatory inactivation of DnaA prevents over-intiations
+  DnaA box VII motif is necessary for DnaA function
+  HDA box VII motif is homologous to above
+  RIDA inhibits DnaA avtivity by sequestering DnaAs oligomerization domain - inactivating the recruitment of DnaB
+Termination
+  Tus/Ter complex
+    monomeric
+    permissive and non-permissive faces
+      Permissive allows passage of fork
+      Non-permissive doesn't allow passage
+        prevents fork from going bakcwards
+    crystal structure with 15bP core sequence of TerA
+  
+
   
     
 
